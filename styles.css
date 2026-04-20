@@ -33,11 +33,12 @@ header {
   transition: 0.2s;
 }
 
-.nav a.active {
-  border-bottom: 2px solid #2b6cb0;
-}
 .nav a:hover {
   color: #1a4f8a;
+}
+
+.nav a.active {
+  border-bottom: 2px solid #2b6cb0;
 }
 
 /* Contenido */
